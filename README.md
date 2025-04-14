@@ -10,13 +10,6 @@ An interactive website for real estate development companies to build custom web
 - **Responsive Design**: Works beautifully on all devices
 - **Modern UI**: Clean, professional design with smooth animations
 
-## How to Use
-
-1. Open `index.html` in your web browser
-2. Browse through different feature categories (Homepage, About Us, Projects, etc.)
-3. Toggle features on/off to see real-time budget and timeline updates
-4. Choose a pre-configured package or build your custom solution
-5. Use the "Request Full Proposal" button to submit your selections
 
 ## Interactive Questionnaire Features
 
